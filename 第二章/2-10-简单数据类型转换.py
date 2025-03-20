@@ -18,7 +18,6 @@ print(int(string_1),float(string_1))
 print(bool(bool_1),bool(bool_2),bool(bool_3))
 print(float(float_1),float(number_1))
 
-
 #  进制的转换
 print('进制的转换==========')
 s='10'
